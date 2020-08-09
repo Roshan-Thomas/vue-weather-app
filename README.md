@@ -19,8 +19,7 @@ __[Demo Weather App](https://fathomless-falls-25481.herokuapp.com/)__
 ## Project setup 👨‍💻
 ```
 git clone https://github.com/Roshan-Thomas/vue-weather-app.git
-```
-```
+cd vue-weather-app
 yarn install
 ```
 
