@@ -1,5 +1,7 @@
 # Vue Weather App ☁
 
+![Thumbnail](https://github.com/Roshan-Thomas/vue-weather-app/blob/master/thumbnail-vue.png)
+
 ## About 🌡
 
 The [app](https://fathomless-falls-25481.herokuapp.com/) is a weather application, which shows the temperature of different cities and countries around the world. Depending on the temperature, the background image changes from cold to hot. This gives a visual aid to the user. 
@@ -16,6 +18,9 @@ __[Demo Weather App](https://fathomless-falls-25481.herokuapp.com/)__
 
 ## Project setup 👨‍💻
 ```
+git clone https://github.com/Roshan-Thomas/vue-weather-app.git
+```
+```
 yarn install
 ```
 
@@ -29,9 +34,5 @@ yarn run serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
 
