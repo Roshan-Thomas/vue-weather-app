@@ -1,8 +1,11 @@
 # Vue Weather App ☁
 
+![Thumbnail](./images/thumbnail-vue.png)
+
+
 ## About 🌡
 
-The [app](https://fathomless-falls-25481.herokuapp.com/) is a weather application, which shows the temperature of different cities and countries around the world. Depending on the temperature, the background image changes from cold to hot. This gives a visual aid to the user. 
+The ___[app](https://fathomless-falls-25481.herokuapp.com/)___ is a weather application, which shows the temperature of different cities and countries around the world. Depending on the temperature, the background image changes from cold to hot. This gives a visual aid to the user. 
 
 For this project, I used the __[OpenWeatherMap API](https://openweathermap.org/api)__, to find the live weather forcast.
 
@@ -13,6 +16,11 @@ This application was made using [Vue.Js](https://vuejs.org/). This was the first
 __[Demo Weather App](https://fathomless-falls-25481.herokuapp.com/)__
 
 <br>
+
+## Screenshots
+
+![Thumbnail](./images/hot.png)
+![Thumbnail](./images/cold.png)
 
 ## Project setup 👨‍💻
 ```
